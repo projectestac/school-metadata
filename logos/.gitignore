@@ -1,0 +1,3 @@
+# Ignore 'raw' and 'conv' directories
+raw/
+conv/
