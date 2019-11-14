@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/projectestac/school-metadata#readme",
   "devDependencies": {
-    "chalk": "^2.4.2",
+    "chalk": "^3.0.0",
     "node-fetch": "^2.6.0"
   }
 }
