@@ -18,6 +18,6 @@
   "homepage": "https://github.com/projectestac/school-metadata#readme",
   "devDependencies": {
     "chalk": "^3.0.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
